@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/e-commerceproject/static/css/main.ee8d274c.css",
+    "main.js": "/e-commerceproject/static/js/main.fc1aa76c.js",
+    "static/media/hero-bcg.jpeg": "/e-commerceproject/static/media/hero-bcg.a876f19f6786a3aca992.jpeg",
+    "static/media/hero-bcg-2.jpeg": "/e-commerceproject/static/media/hero-bcg-2.789918645915c8acb36f.jpeg",
+    "static/media/logo.svg": "/e-commerceproject/static/media/logo.221f6b13e6eaaad5828372464f73a1a4.svg",
+    "index.html": "/e-commerceproject/index.html",
+    "main.ee8d274c.css.map": "/e-commerceproject/static/css/main.ee8d274c.css.map",
+    "main.fc1aa76c.js.map": "/e-commerceproject/static/js/main.fc1aa76c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee8d274c.css",
+    "static/js/main.fc1aa76c.js"
+  ]
+}
